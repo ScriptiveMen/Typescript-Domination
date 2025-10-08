@@ -1,0 +1,15 @@
+{
+    // Visit https://aka.ms/tsconfig to read more about this file
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "alwaysStrict": true,
+        "noImplicitUseStrict": false,
+        "sourceMap": false,
+        "declaration": false,
+        "declarationMap": false,
+        "strict": true,
+        "skipLibCheck": true,
+        "isolatedModules": false
+    }
+}
